@@ -40,5 +40,16 @@
     "setup": "bower install; npm install; gulp",
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottzirkel/style-guide"
+  },
+  "bugs": {
+    "url": "https://github.com/scottzirkel/style-guide/issues"
+  },
+  "homepage": "https://github.com/scottzirkel/style-guide#readme",
+  "keywords": [
+    "starter"
+  ]
 }
